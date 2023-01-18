@@ -1,4 +1,4 @@
-# Day2
+# Day3
 ### OOP/Collections
 
 *Takeaways: Today you will learn how to model the operation of various collections correctly, and create a full-scale money transfer application*
